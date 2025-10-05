@@ -4,6 +4,7 @@
 
 XT.com is a leading global cryptocurrency exchange platform that enables users to buy, sell, trade, and hold a wide variety of digital assets. Established in 2018, XT.com has grown into a comprehensive trading ecosystem offering spot trading, futures trading, margin trading, and various crypto financial services to users in over 100 countries. The platform is renowned for its extensive selection of over 800 cryptocurrencies, competitive fee structure, advanced trading features, and attractive welcome bonuses for new users. XT.com provides both beginner-friendly interfaces and professional trading tools, making it suitable for traders of all experience levels seeking a reliable and secure crypto trading environment.
 
+<img width="2620" height="1095" alt="image" src="https://github.com/user-attachments/assets/df45bb94-6201-4242-855a-ea4453a52e4c" />
 
 ## XT.com Official Website Address
 
